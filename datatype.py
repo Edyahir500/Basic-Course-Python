@@ -7,7 +7,7 @@
 print("String--cadena de caracteres por ejemplo:")
 print("Hello world")
 print('Hello world')
-print("""Helloooo world""")
+print("""Hello world""")
 print('''Hello world''')
 print(type("Hello world"))
 print("Hello"+"world") # Unir strings -- es un proceso de concatenacion.
