@@ -3,4 +3,4 @@
 ## En este curso aprenderas a programar en Python y algunos otros hacks.
 
 
-#### Requisitos
+#### Requisitos: -Tener instalado Python version actual.
