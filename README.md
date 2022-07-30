@@ -1,6 +1,6 @@
 #CURSO DE PYTHON
 
-## En este curso aprenderas a programar en Python y algunos otros hacks.
+## En este curso aprenderas a programar en Python.
 
 
 #### Requisitos: -Tener instalado Python version actual.
